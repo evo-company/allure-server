@@ -1,0 +1,7 @@
+# Build
+/dist
+/coverage
+.build
+
+# Dependencies
+node_modules
